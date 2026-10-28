@@ -1,83 +1,135 @@
-# Hi, I'm Rasool Rajabi 👋  
-### Machine Learning Engineer in Progress | Data Science Enthusiast
+# Hi, I'm Rasool Rajabi 👋
 
-I am a Machine Learning enthusiast with around one year of hands-on experience in machine learning algorithms and data analysis.  
-My focus is on building structured, end-to-end Machine Learning systems with clean code and practical impact.
+### AI Engineer | Agentic AI & LLM Applications
 
-Alongside classical ML, I am actively strengthening my Deep Learning knowledge and experimenting with neural network architectures for real-world tasks and working with data stored in relational databases using SQL.
+I build practical AI applications using Large Language Models (LLMs), tool calling, and agent-based workflows. My projects explore how AI models can interact with external tools, retrieve information, process data, and produce useful outputs.
+
+With a background in Machine Learning and Deep Learning, I'm focused on developing reliable, structured, and maintainable AI systems through hands-on projects.
+
 ---
 
 ## 🧠 About Me
 
-- 💡 Solid understanding of core Machine Learning algorithms
-- 📊 Strong in data preprocessing, feature engineering, and model evaluation
-- 🏗 Interested in building complete ML pipelines (from raw data to evaluation)
-- 📚 Continuously learning Deep Learning and advanced modeling techniques
-- 🎯 Goal: Becoming a professional ML Engineer capable of deploying real-world systems
+- 🤖 Building LLM-powered applications and multi-agent workflows
+- 🔗 Exploring agent orchestration with LangGraph and CrewAI
+- 🛠️ Developing tool-integrated AI applications using the Model Context Protocol (MCP)
+- 📊 Applying Machine Learning and Deep Learning to practical problems
+- 🧪 Working on structured outputs, testing, and AI application evaluation
+- 🎯 Focused on growing as an AI Engineer through practical implementation
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Programming & Core**
-- Python
-- SQL
-- Git & GitHub
+**Programming & Data**
 
-**Data Analysis & Databases**
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- SQL
 
-**Machine Learning**
-- Scikit-learn
-- Model Evaluation & Cross Validation
-- Feature Engineering
-- Pipeline Design
 
-**Algorithms:**
-- Regression(Linear/Multiple/Polymoial Regression)
-- Classification(Logistic Regression, KNN, SVM, Random Forest, XGBoost, PCA)
-- Clustering (K-Means)
+**LLM & Agentic AI**
 
-**Deep Learning**
-- TensorFlow/Keras(ANNs & CNNs)
+
+**Machine Learning & Deep Learning**
+
+**Core Concepts:** Tool Calling, Multi-Agent Workflows, Structured LLM Outputs, Data Preprocessing, Feature Engineering, Model Evaluation, and Model Validation.
 
 ---
 
-## 🔭 Currently Working On
+## 🚀 Featured Projects
 
-- Building End-to-End Machine Learning projects
-- Implementing ML algorithms from scratch
-- Improving code structure and production-readiness
-- Building Deep Learning mini-projects
+### 1. [Financial Research Assistant](https://github.com/Rasool-R/Financial-Research-Assistant)
+
+A multi-agent financial research workflow built with LangGraph for analyzing forex and precious-metal markets.
+
+**Key Features**
+
+- Market data retrieval and technical indicator calculation
+- Separate market analysis and news research workflows
+- Multi-agent coordination and report generation
+- Review and revision workflow for generated reports
+- Automated tests and evaluation components
+
+**Technologies:** Python, LangGraph, LLM APIs, Twelve Data, Pandas, Pytest
+
+### 2. [CrewAI Blog Researcher](https://github.com/Rasool-R/crewai-blog-researcher)
+
+A multi-agent content generation pipeline that transforms a topic into a researched and edited blog post.
+
+**Key Features**
+
+- Web research with source URLs
+- Draft generation based on collected findings
+- Content editing for clarity and readability
+- Sequential task execution across specialized agents
+
+**Technologies:** Python, CrewAI, Serper, OpenAI-compatible APIs
+
+### 3. [MCP Financial Assistant — Smart Financial Analyst](https://github.com/Rasool-R/Smart-Financial-Analyst)
+
+An LLM-powered financial assistant that connects a language model to financial data tools through the Model Context Protocol (MCP).
+
+**Key Features**
+
+- Stock market information retrieval
+- Gold price and currency exchange-rate tools
+- MCP server and client integration
+- Tool calling with OpenAI-compatible APIs
+- Function-calling examples using OpenAI and Anthropic APIs
+
+**Technologies:** Python, MCP, LLM APIs, Tool Calling
+
+### 4. [Interview Chatbot](https://github.com/Rasool-R/interview-chatbot)
+
+A Streamlit application that simulates job interviews and provides feedback on the user's responses.
+
+**Key Features**
+
+- Role- and company-specific interview setup
+- Interactive interview conversations with streamed responses
+- Performance scoring and written feedback
+- Support for OpenAI-compatible model APIs
+
+**Technologies:** Python, Streamlit, LLM APIs
 
 ---
 
-## 📌 Featured Projects
+## 🔬 Additional Project
 
-*(Projects will be added soon — currently building structured ML repositories.)*
+### [Financial Chart LLM Evaluation](https://github.com/Rasool-R/financial-chart-llm-evaluation)
+
+An experimental benchmark for evaluating a vision-capable LLM on financial chart questions.
+
+The project uses structured outputs to evaluate yes/no and numerical answers against labeled data, with metrics and reports for analyzing model performance.
+
+**Technologies:** Python, LangChain, Pydantic, Pandas, LLM Evaluation
 
 ---
 
-## 📈 What You Can Expect From My Repositories
+## 🔭 Current Focus
 
-- Clean and readable code
-- Structured project folders
-- Clear problem definition
-- Thoughtful model comparison
-- Detailed README explanations
-- Focus on understanding and practical implementation
+- Building more advanced Agentic AI applications
+- Improving multi-agent orchestration and workflow design
+- Exploring practical applications of LangChain, LangGraph, and CrewAI
+- Developing reliable tool-integrated LLM systems
+- Strengthening AI application testing and evaluation practices
+
+---
+
+## 📌 Engineering Principles
+
+- Write clean, readable, and maintainable code
+- Prefer modular project structures
+- Use structured data wherever practical
+- Test important application components
+- Evaluate model outputs instead of relying on assumptions
+- Document project architecture, setup, and limitations
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/rasool-rajabi-1496b9383
-- Email: rasool.top.85@gmail.com
+- **LinkedIn:** [Rasool Rajabi](https://www.linkedin.com/in/rasool-rajabi-1496b9383)
+- **Email:** [rasool.top.85@gmail.com](mailto\:rasool.top.85@gmail.com)
 
 ---
 
-⭐ Always open to collaboration on Machine Learning projects.
+⭐ I'm interested in building useful AI applications, exploring Agentic AI architectures, and collaborating on AI engineering projects.
